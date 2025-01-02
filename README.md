@@ -1,6 +1,4 @@
-Here's a README file for your **ToDo App** developed in Flutter during your Route Academy project:
 
----
 
 # 📝 ToDo App
 
